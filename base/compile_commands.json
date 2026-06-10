@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/sky/dev/projects/cpp/base",
+  "command": "/usr/bin/c++    -o CMakeFiles/app.dir/base.cpp.o -c /home/sky/dev/projects/cpp/base/base.cpp",
+  "file": "/home/sky/dev/projects/cpp/base/base.cpp",
+  "output": "CMakeFiles/app.dir/base.cpp.o"
+},
+{
+  "directory": "/home/sky/dev/projects/cpp/base",
+  "command": "/usr/bin/c++    -o CMakeFiles/app.dir/addition.cpp.o -c /home/sky/dev/projects/cpp/base/addition.cpp",
+  "file": "/home/sky/dev/projects/cpp/base/addition.cpp",
+  "output": "CMakeFiles/app.dir/addition.cpp.o"
+}
+]

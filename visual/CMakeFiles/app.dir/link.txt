@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic -Wl,--dependency-file=CMakeFiles/app.dir/link.d CMakeFiles/app.dir/main.cpp.o CMakeFiles/app.dir/shader.cpp.o CMakeFiles/app.dir/renderer.cpp.o CMakeFiles/app.dir/figure_renderer.cpp.o -o app  libLibsModule.a -lglfw

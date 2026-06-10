@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/sky/dev/projects/cpp/visual",
+  "command": "/usr/bin/cc    -o CMakeFiles/LibsModule.dir/glad.c.o -c /home/sky/dev/projects/cpp/visual/glad.c",
+  "file": "/home/sky/dev/projects/cpp/visual/glad.c",
+  "output": "CMakeFiles/LibsModule.dir/glad.c.o"
+},
+{
+  "directory": "/home/sky/dev/projects/cpp/visual",
+  "command": "/usr/bin/c++    -o CMakeFiles/app.dir/main.cpp.o -c /home/sky/dev/projects/cpp/visual/main.cpp",
+  "file": "/home/sky/dev/projects/cpp/visual/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.o"
+},
+{
+  "directory": "/home/sky/dev/projects/cpp/visual",
+  "command": "/usr/bin/c++    -o CMakeFiles/app.dir/shader.cpp.o -c /home/sky/dev/projects/cpp/visual/shader.cpp",
+  "file": "/home/sky/dev/projects/cpp/visual/shader.cpp",
+  "output": "CMakeFiles/app.dir/shader.cpp.o"
+},
+{
+  "directory": "/home/sky/dev/projects/cpp/visual",
+  "command": "/usr/bin/c++    -o CMakeFiles/app.dir/renderer.cpp.o -c /home/sky/dev/projects/cpp/visual/renderer.cpp",
+  "file": "/home/sky/dev/projects/cpp/visual/renderer.cpp",
+  "output": "CMakeFiles/app.dir/renderer.cpp.o"
+},
+{
+  "directory": "/home/sky/dev/projects/cpp/visual",
+  "command": "/usr/bin/c++    -o CMakeFiles/app.dir/figure_renderer.cpp.o -c /home/sky/dev/projects/cpp/visual/figure_renderer.cpp",
+  "file": "/home/sky/dev/projects/cpp/visual/figure_renderer.cpp",
+  "output": "CMakeFiles/app.dir/figure_renderer.cpp.o"
+}
+]

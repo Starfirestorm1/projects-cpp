@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sky/dev/projects/cpp/algo/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/algo.dir/main.cpp.o -c /home/sky/dev/projects/cpp/algo/main.cpp",
+  "file": "/home/sky/dev/projects/cpp/algo/main.cpp",
+  "output": "CMakeFiles/algo.dir/main.cpp.o"
+}
+]

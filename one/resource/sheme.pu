@@ -1,0 +1,19 @@
+@startuml
+scale 800*800
+    class Entity {
+        +int Id
+    }
+    class View {
+        -void Render()
+    }
+    class Physic {
+        -void Compute()
+    }
+    class Map {
+        -int[] Get()
+    }
+    View <-- Entity : aggregate
+    Physic <-- Entity : aggregate 
+    Entity <-- Physic : Link
+    Entity <-- Map : aggregate
+@enduml

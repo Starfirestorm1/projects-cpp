@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0)
+project(visual)
+add_library(LibsModule glad.c)
+#add_library(LibsModule shader.h)
+target_link_libraries(LibsModule -lglfw)
+add_executable(app main.cpp shader.cpp renderer.cpp figure_renderer.cpp) 
+target_link_libraries(app LibsModule)

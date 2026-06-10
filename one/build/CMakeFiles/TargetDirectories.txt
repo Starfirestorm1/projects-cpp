@@ -1,0 +1,4 @@
+/home/sky/dev/projects/cpp/one/build/CMakeFiles/LibsModule.dir
+/home/sky/dev/projects/cpp/one/build/CMakeFiles/one.dir
+/home/sky/dev/projects/cpp/one/build/CMakeFiles/edit_cache.dir
+/home/sky/dev/projects/cpp/one/build/CMakeFiles/rebuild_cache.dir

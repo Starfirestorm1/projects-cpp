@@ -1,0 +1,4 @@
+/home/sky/dev/projects/cpp/visual/CMakeFiles/LibsModule.dir
+/home/sky/dev/projects/cpp/visual/CMakeFiles/app.dir
+/home/sky/dev/projects/cpp/visual/CMakeFiles/edit_cache.dir
+/home/sky/dev/projects/cpp/visual/CMakeFiles/rebuild_cache.dir
